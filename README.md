@@ -1,4 +1,4 @@
-# portfolio and Cloned by rajmarciv
+# react biometric attendance application
 
 
 
